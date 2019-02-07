@@ -1,2 +1,1 @@
-# master_thesis
-topic
+this is a readme style
